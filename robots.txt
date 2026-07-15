@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ws4r0e.teepeepartee.co.nz/sitemap.xml
